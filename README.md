@@ -24,3 +24,12 @@ Coming soon: my C++, Python, and Data Structures projects from this year.
 
 LinkedIn: https://www.linkedin.com/in/EyalProg1
 
+
+
+\## What I'm learning now
+
+* Git and GitHub workflows
+* Algorithms and Data Structures
+* Python scripting and automation
+* C++ and Principles of programming 
+
